@@ -14,7 +14,7 @@
 -  get: '/livros/:id'  - (Listagem de um livro específico)
 -  post: '/livros' - (Criação do livro)
 -  put: '/livros/:id' - (Atualizar os dados do livro)
--  delete: '/livros/:id' - (Exclusão do autor)
+-  delete: '/livros/:id' - (Exclusão do livro)
 ### Editora 
 -  get: '/editoras' - (Listagem dos editoras)
 -  get: '/editoras/:id' - (Listagem de uma editora específica)
